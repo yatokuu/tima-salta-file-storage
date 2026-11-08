@@ -1,0 +1,6 @@
+# Generated files and local IDE state
+out/
+build/
+data/
+.idea/workspace.xml
+*.class
